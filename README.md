@@ -17,7 +17,7 @@
 <p align="center">
   <span style="color:#39FF14; font-weight:700;">Penetration Tester in Training</span>
   <span style="color:#00E5FF;"> · </span>
-  <span style="color:#7DF9FF; font-weight:700;">Bug Bounty Hunter</span>
+  <span style="color:#7DF9FF; font-weight:700;">Ethical hacker</span>
   <span style="color:#00E5FF;"> · </span>
   <span style="color:#39FF14; font-weight:700;">Security Researcher</span>
 </p>
