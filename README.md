@@ -1,139 +1,139 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F5C8&center=true&vCenter=true&width=700&lines=Naik+Nazar;Penetration+Tester+in+Training;Bug+Bounty+Hunter;Security+Researcher" alt="Naik Nazar typing banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Naik+Nazar;Penetration+Tester+in+Training;Bug+Bounty+Hunter;Security+Researcher" alt="Naik Nazar typing banner" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Quetta%2C%20Pakistan-00E5FF?style=for-the-badge&logo=mapbox&logoColor=black" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Quetta%2C%20Pakistan-00E5FF?style=for-the-badge&logo=mappin&logoColor=black" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20Internships-39FF14?style=for-the-badge&logo=rocket&logoColor=black" alt="Open for internships" />
-  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-00F5C8?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Penetration testing" />
+  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-00FF9F?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Focus" />
 </div>
 
 <hr>
 
 <h2 align="center">
-  <span style="color:#00F5C8;">👋 Hi, I'm Naik Nazar</span>
+  <span style="color:#00E5FF;">👋 Hi, I'm Naik Nazar</span>
 </h2>
 
 <p align="center">
-  <span style="color:#39FF14; font-weight:600;">Penetration Tester in Training</span>
-  <span style="color:#00E5FF;">•</span>
-  <span style="color:#7DF9FF; font-weight:600;">Bug Bounty Hunter</span>
-  <span style="color:#00E5FF;">•</span>
-  <span style="color:#39FF14; font-weight:600;">Security Researcher</span>
+  <span style="color:#39FF14; font-weight:700;">Penetration Tester in Training</span>
+  <span style="color:#00E5FF;"> · </span>
+  <span style="color:#7DF9FF; font-weight:700;">Bug Bounty Hunter</span>
+  <span style="color:#00E5FF;"> · </span>
+  <span style="color:#39FF14; font-weight:700;">Security Researcher</span>
 </p>
 
 <p align="center">
   <span style="color:#7DF9FF;">📍 Quetta, Balochistan, Pakistan</span>
-  <span style="color:#00E5FF;">•</span>
+  <span style="color:#00E5FF;"> • </span>
   <span style="color:#39FF14;">Open for internships</span>
 </p>
 
 <p align="center">
-  <i style="color:#00E5FF;">"In cybersecurity, understanding the adversary is the first step toward building resilient defenses."</i>
+  <span style="color:#00E5FF;"><em>"In cybersecurity, understanding the adversary is the first step toward building resilient defenses."</em></span>
 </p>
 
 <hr>
 
-<h2 align="center"><span style="color:#00F5C8;">🛡️ About Me</span></h2>
+<h2 align="center"><span style="color:#00FF9F;">💻 Professional Summary</span></h2>
 
-<p align="justify" style="color:#B9FBC0;">
-  I am a passionate cybersecurity learner focused on ethical hacking, vulnerability assessment, network security, and offensive security research. I enjoy exploring how systems behave under attack, identifying weaknesses before they become exploitable, and learning practical defensive strategies to strengthen digital systems.
+<p align="justify" style="color:#D8FFE8;">
+  Dedicated and results-driven cybersecurity professional based in <strong style="color:#00E5FF;">Quetta, Balochistan, Pakistan</strong>, specializing in offensive security, penetration testing, network defense, and SIEM/SOC operations. Passionate about uncovering structural vulnerabilities, executing meticulous risk assessments, and securing critical digital infrastructure against evolving cyber threats.
 </p>
-
-<p align="justify" style="color:#B9FBC0;">
-  My journey is driven by curiosity, hands-on labs, real-world research, and a commitment to building a strong foundation in security operations, pentesting, and bug hunting.
-</p>
-
-<hr>
-
-<h2 align="center"><span style="color:#00F5C8;">🔍 Core Focus</span></h2>
 
 <ul>
-  <li><strong style="color:#39FF14;">Penetration Testing</strong> <span style="color:#B9FBC0;">- Reconnaissance, exploitation, reporting, and remediation</span></li>
-  <li><strong style="color:#7DF9FF;">Network Security</strong> <span style="color:#B9FBC0;">- Threat analysis, hardening, and defense strategy</span></li>
-  <li><strong style="color:#39FF14;">Vulnerability Assessment</strong> <span style="color:#B9FBC0;">- Identifying weaknesses in applications and infrastructure</span></li>
-  <li><strong style="color:#7DF9FF;">Web & API Security</strong> <span style="color:#B9FBC0;">- Testing authentication, authorization, and common attack vectors</span></li>
-  <li><strong style="color:#39FF14;">Security Research</strong> <span style="color:#B9FBC0;">- Learning from real-world attack techniques and defensive logic</span></li>
+  <li><strong style="color:#39FF14;">🔭 Core Specialization:</strong> <span style="color:#C9F8D7;">Penetration Testing, Network Security, SIEM & SOC Operations</span></li>
+  <li><strong style="color:#7DF9FF;">🧠 Security Mindset:</strong> <span style="color:#C9F8D7;">Offensive security methodologies, structured threat investigation, and proactive risk mitigation</span></li>
+  <li><strong style="color:#FFB703;">🎯 Professional Objective:</strong> <span style="color:#C9F8D7;">To elevate organizational security posture, advance real-world offensive security expertise, and contribute to robust, secure digital ecosystems.</span></li>
 </ul>
 
 <hr>
 
-<h2 align="center"><span style="color:#00F5C8;">🧰 Tools & Skills</span></h2>
+<h2 align="center"><span style="color:#00FF9F;">💭 The Pentester's Reality Check</span></h2>
 
-<div align="center">
+<blockquote>
+  <p align="center" style="color:#7DF9FF;">
+    <em>"Agar aap CSS kartay hain toh 3 saal ka tension hai, MDCAT kartay hain toh aap ki mehnat se 1 saal lagta hai... lekin agar aap Cybersecurity ya Penetration Testing mein ghotah martay hain, toh yeh ek aisa gehra khada hai ke woh saare fields aapko aasan lagayngay! Agar aap long-term time de saktay hain, toh yeh sab se best field hai."</em>
+  </p>
+</blockquote>
+
+<hr>
+
+<h2 align="center"><span style="color:#00FF9F;">🛡️ Core Competencies & Security Focus</span></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-00FF9F?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Pentesting" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-00E5FF?style=for-the-badge&logo=security&logoColor=black" alt="Vulnerability Assessment" />
+  <img src="https://img.shields.io/badge/Network%20Security-39FF14?style=for-the-badge&logo=linux&logoColor=black" alt="Network Security" />
+  <img src="https://img.shields.io/badge/SIEM%20%2F%20SOC-7DF9FF?style=for-the-badge&logo=datadog&logoColor=black" alt="SIEM/SOC" />
+  <img src="https://img.shields.io/badge/Red%20Teaming-FFB703?style=for-the-badge&logo=letsencrypt&logoColor=black" alt="Red Team" />
+  <img src="https://img.shields.io/badge/Security%20Audits-B084FF?style=for-the-badge&logo=gnupg&logoColor=black" alt="Security Audits" />
+</p>
+
+<hr>
+
+<h2 align="center"><span style="color:#00FF9F;">🛠️ Security Arsenal & Technical Stack</span></h2>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-00E5FF?style=for-the-badge&logo=kali-linux&logoColor=black" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Nmap-39FF14?style=for-the-badge&logo=nmap&logoColor=black" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Burpsuite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-00C2FF?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-00FF9F?style=for-the-badge&logo=metasploit&logoColor=black" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FFB703?style=for-the-badge&logo=burpsuite&logoColor=black" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-7DF9FF?style=for-the-badge&logo=wireshark&logoColor=black" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Shodan-B084FF?style=for-the-badge&logo=shodan&logoColor=black" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Maltego-00E5FF?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-39FF14?style=for-the-badge&logo=gnupg&logoColor=black" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-00FF9F?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="John the Ripper" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-00FF9F?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-2DDE98?style=for-the-badge&logo=metasploit&logoColor=black" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Threat%20Modeling-7DF9FF?style=for-the-badge&logo=security&logoColor=black" alt="Threat modeling" />
-</div>
-
-<hr>
-
-<h2 align="center"><span style="color:#00F5C8;">📁 Portfolio Highlights</span></h2>
-
-<div align="center">
-  <a href="#projects" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Projects-Explore-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="Explore projects" />
-  </a>
-  <a href="#certifications" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Certifications-View-00E5FF?style=for-the-badge&logo=certificate&logoColor=black" alt="View certifications" />
-  </a>
-  <a href="mailto:naiknazar@example.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Contact-Email-7DF9FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-</div>
-
-<p style="color:#B9FBC0;">
-  This GitHub repository showcases my learning path, security projects, practical labs, and cybersecurity investigations as I continue growing in the field.
+  <img src="https://img.shields.io/badge/Tor-7DF9FF?style=for-the-badge&logo=tor&logoColor=black" alt="Tor" />
+  <img src="https://img.shields.io/badge/ProxyChains-FFB703?style=for-the-badge&logo=linux&logoColor=black" alt="ProxyChains" />
 </p>
 
 <hr>
 
-<h2 id="projects" align="center"><span style="color:#00F5C8;">🚀 Projects & Labs</span></h2>
+<h2 align="center"><span style="color:#00FF9F;">📜 Certifications & Continuous Learning</span></h2>
 
 <ul>
-  <li><strong style="color:#39FF14;">CTF / Lab Writeups</strong> <span style="color:#B9FBC0;">- Walkthroughs and findings from security challenges</span></li>
-  <li><strong style="color:#7DF9FF;">Vulnerability Research</strong> <span style="color:#B9FBC0;">- Investigations into weaknesses, attack paths, and remediation</span></li>
-  <li><strong style="color:#39FF14;">Automation Scripts</strong> <span style="color:#B9FBC0;">- Security tooling, recon scripts, and utility workflows</span></li>
-  <li><strong style="color:#7DF9FF;">Learning Journal</strong> <span style="color:#B9FBC0;">- Notes and practical exercises from offensive security training</span></li>
+  <li><strong style="color:#39FF14;">🎓 Google Cybersecurity Certificate</strong></li>
+  <li><strong style="color:#00E5FF;">📜 8-Month NAVTTIC Professional Certificate</strong></li>
+  <li><strong style="color:#7DF9FF;">📚 MindLuster & SkillUp Cybersecurity Training</strong></li>
+  <li><strong style="color:#FFB703;">🌐 Simplilearn Cybersecurity Specializations</strong></li>
+  <li><strong style="color:#B084FF;">🛡️ CEH (Certified Ethical Hacker)</strong> <span style="color:#D8FFE8;">*(Expected Soon from EC Council)*</span></li>
 </ul>
 
 <hr>
 
-<h2 id="certifications" align="center"><span style="color:#00F5C8;">🎓 Certifications & Learning</span></h2>
+<h2 align="center"><span style="color:#00FF9F;">⚡ Daily Hacker Loop</span></h2>
 
-<ul>
-  <li><span style="color:#39FF14;">Google Cybersecurity Certificate</span></li>
-  <li><span style="color:#7DF9FF;">NAVTTIC Professional Certificate</span></li>
-  <li><span style="color:#39FF14;">MindLuster & SkillUp Cybersecurity Training</span></li>
-  <li><span style="color:#7DF9FF;">Simplilearn Cybersecurity Specializations</span></li>
-  <li><span style="color:#39FF14;">CEH (Certified Ethical Hacker) - In Progress</span></li>
-</ul>
-
-<hr>
-
-<h2 align="center"><span style="color:#00F5C8;">📊 GitHub Stats</span></h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaikNazar-cyber&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikNazar-cyber&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</div>
+```bash
+while [ $battery -gt 0 ]; do
+    echo "1. Scan Target 🔍"
+    echo "2. Find Vulnerabilities 🐛"
+    echo "3. Exploit Responsibly 🛡️"
+    echo "4. Drink Green Tea / Coffee ☕"
+    echo "5. Repeat 🔁"
+done
+```
 
 <hr>
+
+<h2 align="center"><span style="color:#00FF9F;">📊 GitHub Performance Metrics</span></h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaikNazar-cyber&color=00F5C8&style=flat-square&label=Profile+Visits" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaikNazar-cyber&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <span style="color:#39FF14; font-weight:700;">💡 Always learning. Always testing. Always improving.</span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikNazar-cyber&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<hr>
+
+<p align="center">
+  <span style="color:#00E5FF;"><em>"Every system has a weakness. Security starts with understanding it."</em></span>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NaikNazar-cyber&color=00FF9F&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
 </p>
 
 <hr>
