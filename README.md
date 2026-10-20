@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Naik+Nazar;Penetration+Tester+in+Training;Bug+Bounty+Hunter;Security+Researcher" alt="Naik Nazar typing banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=👋+Hi+Im+Naik+Nazar;Penetration+Tester+in+Training;Bug+Bounty+Hunter;Security+Researcher" alt="Naik Nazar typing banner" />
 </div>
 
 <div align="center">
@@ -58,6 +58,24 @@
 
 <hr>
 
+<h2 align="center"><span style="color:#FFB703;">⚠️ Red Team Reality:Showing the truth</span></h2>
+
+<p align="justify" style="color:#D8FFE8;">
+  Boht se log yeh samajh kar Red Teaming mein aate hain ke woh bina kisi qanoon ko manne wale "azad hackers" ya "hacktivists" ban jayenge—<strong>yeh soch 100% galat aur bakwas hai!</strong> Red Teaming aur Ethical Hacking kisi lawless mind-set ka naam nahi hai. Real-world Cybersecurity sakht legal frameworks, written authorization, aur strict Rules of Engagement (RoE) par chalti hai. Unlawful hacking se sirf legal action aur career tabah hota hai.
+</p>
+
+<ul>
+  <li><strong style="color:#FF5555;">🏴 Hacktivist:</strong> An individual or group that breaches systems for political, social, or ideological motives without legal permission. Regardless of intent, unauthorized access is illegal and punishable by law.</li>
+  <li><strong style="color:#FFB703;">🎯 Rogue / Unlawful Hacker (Black Hat):</strong> Someone who operates outside legal scope, disrespects authorization, and exploits vulnerabilities unlawfully. This path leads to cybercrime charges, not a career.</li>
+  <li><strong style="color:#39FF14;">🛡️ Professional Red Teamer:</strong> A security professional who operates strictly within legally binding authorization to simulate realistic attacks and fortify defenses. <em>Without explicit written consent, hacking is a crime—period.</em></li>
+</ul>
+
+<p align="center" style="color:#7DF9FF;">
+  ⛔ <strong>Advice to Beginners:</strong> Avoid the "lawless hacker" mindset. Real security professionals respect legal scope, boundaries, and professional ethics.
+</p>
+
+<hr>
+
 <h2 align="center"><span style="color:#00FF9F;">🛡️ Core Competencies & Security Focus</span></h2>
 
 <p align="center">
@@ -112,34 +130,3 @@ while [ $battery -gt 0 ]; do
     echo "4. Drink Green Tea / Coffee ☕"
     echo "5. Repeat 🔁"
 done
-```
-
-<hr>
-
-<h2 align="center"><span style="color:#00FF9F;">📊 GitHub Performance Metrics</span></h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaikNazar-cyber&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikNazar-cyber&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<hr>
-
-<p align="center">
-  <span style="color:#00E5FF;"><em>"Every system has a weakness. Security starts with understanding it."</em></span>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaikNazar-cyber&color=00FF9F&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
-</p>
-
-<hr>
-
-<div align="center">
-  <a href="https://github.com/NaikNazar-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-NaikNazar--cyber-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
-</div>
