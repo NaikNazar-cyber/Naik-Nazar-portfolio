@@ -1,6 +1,6 @@
 # Naik Nazar
 
-### Cybersecurity Enthusiast | Penetration Tester | Security Researcher
+### Cybersecurity  | Penetration Tester | Security Researcher
 
 ![Cyber Security](https://img.shields.io/badge/CyberSecurity-Portfolio-00E5FF?style=for-the-badge&logo=security&logoColor=black)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=black)
@@ -90,7 +90,7 @@ I actively practice and sharpen my offensive security skills through hands-on la
 
 ## Contact
 
-- Email: meermuhammedarkamkhan@proton.me
+- Email: meermuhammedakramkhan@proton.me
 - TryHackMe: https://tryhackme.com/p/meernaik
 
 ---
