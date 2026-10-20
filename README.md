@@ -15,11 +15,19 @@
 </h1>
 
 <p align="center">
+ NaikNazar-cyber-patch-1
   <strong style="color:#39FF14;">🎯 Offensive Security Specialist</strong>
   <span style="color:#00E5FF;"> | </span>
   <strong style="color:#7DF9FF;">🛡️ Ethical Hacker</strong>
   <span style="color:#00E5FF;"> | </span>
   <strong style="color:#39FF14;">🔍 Security Researcher</strong>
+
+  <span style="color:#39FF14; font-weight:700;">Penetration Tester in Training</span>
+  <span style="color:#00E5FF;"> · </span>
+  <span style="color:#7DF9FF; font-weight:700;">Ethical hacker</span>
+  <span style="color:#00E5FF;"> · </span>
+  <span style="color:#39FF14; font-weight:700;">Security Researcher</span>
+ main
 </p>
 
 <p align="center">
