@@ -61,12 +61,12 @@
 <h2 align="center"><span style="color:#FFB703;">⚠️ Red Team Reality:Showing the truth</span></h2>
 
 <p align="justify" style="color:#D8FFE8;">
-  Boht se log yeh samajh kar Red Teaming mein aate hain ke woh bina kisi qanoon ko manne wale "azad hackers" ya "hacktivists" ban jayenge—<strong>yeh soch 100% galat aur bakwas hai!</strong> Red Teaming aur Ethical Hacking kisi lawless mind-set ka naam nahi hai. Real-world Cybersecurity sakht legal frameworks, written authorization, aur strict Rules of Engagement (RoE) par chalti hai. Unlawful hacking se sirf legal action aur career tabah hota hai.
+  Boht se log yeh samajh kar Red Teaming mein aate hain ke woh bina kisi qanoon ko manne wale "azad hackers" ya "hacktivists" ban jayenge—<strong>yeh soch 100% ghalat hai!</strong> Red Teaming aur Ethical Hacking kisi lawless mind-set ka naam nahi hai. Real-world Cybersecurity sakht legal frameworks, written authorization, aur strict Rules of Engagement (RoE) par chalti hai. Unlawful hacking se sirf legal action aur career tabah hota hai.
 </p>
 
 <ul>
   <li><strong style="color:#FF5555;">🏴 Hacktivist:</strong> An individual or group that breaches systems for political, social, or ideological motives without legal permission. Regardless of intent, unauthorized access is illegal and punishable by law.</li>
-  <li><strong style="color:#FFB703;">🎯 Rogue / Unlawful Hacker (Black Hat):</strong> Someone who operates outside legal scope, disrespects authorization, and exploits vulnerabilities unlawfully. This path leads to cybercrime charges, not a career.</li>
+  <li><strong style="color:#FFB703;">🎯 Hacker (Black Hat):</strong> Someone who operates outside legal scope, disrespects authorization, and exploits vulnerabilities unlawfully.They are malcious threat actors who don not follow or Respect the law. This path leads to cybercrime charges, not a career.</li>
   <li><strong style="color:#39FF14;">🛡️ Professional Red Teamer:</strong> A security professional who operates strictly within legally binding authorization to simulate realistic attacks and fortify defenses. <em>Without explicit written consent, hacking is a crime—period.</em></li>
 </ul>
 
