@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Naik+Nazar;Penetration+Tester+in+Training;Bug+Bounty+Hunter;Security+Researcher" alt="Naik Nazar typing banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Mr+Naik+Nazar;Penetration+Tester+in+Training;Bug+Bounty+Hunter;Security+Researcher" alt="Naik Nazar typing banner" />
 </div>
 
 <div align="center">
@@ -10,22 +10,22 @@
 
 <hr>
 
-<h2 align="center">
-  <span style="color:#00E5FF;">👋 Hi, I'm Naik Nazar</span>
-</h2>
+<h1 align="center">
+  <span style="color:#00E5FF;">👋 Hi, I'm </span><span style="color:#39FF14;">Naik Nazar</span>
+</h1>
 
 <p align="center">
-  <span style="color:#39FF14; font-weight:700;">Penetration Tester in Training</span>
-  <span style="color:#00E5FF;"> · </span>
-  <span style="color:#7DF9FF; font-weight:700;">Bug Bounty Hunter</span>
-  <span style="color:#00E5FF;"> · </span>
-  <span style="color:#39FF14; font-weight:700;">Security Researcher</span>
+  <strong style="color:#39FF14;">🎯 Offensive Security Specialist</strong>
+  <span style="color:#00E5FF;"> | </span>
+  <strong style="color:#7DF9FF;">🛡️ Ethical Hacker</strong>
+  <span style="color:#00E5FF;"> | </span>
+  <strong style="color:#39FF14;">🔍 Security Researcher</strong>
 </p>
 
 <p align="center">
-  <span style="color:#7DF9FF;">📍 Quetta, Balochistan, Pakistan</span>
+  <span style="color:#7DF9FF;">📍 Based in Quetta, Balochistan, Pakistan</span>
   <span style="color:#00E5FF;"> • </span>
-  <span style="color:#39FF14;">Open for internships</span>
+  <strong style="color:#FFB703;">⚡ Open for Cybersecurity Internships & Roles</strong>
 </p>
 
 <p align="center">
@@ -55,6 +55,36 @@
     <em>"Agar aap CSS kartay hain toh 3 saal ka tension hai, MDCAT kartay hain toh aap ki mehnat se 1 saal lagta hai... lekin agar aap Cybersecurity ya Penetration Testing mein ghotah martay hain, toh yeh ek aisa gehra khada hai ke woh saare fields aapko aasan lagayngay! Agar aap long-term time de saktay hain, toh yeh sab se best field hai."</em>
   </p>
 </blockquote>
+
+<hr>
+
+<h2 align="center"><span style="color:#FFB703;">⚠️ Red Team Reality: Debunking The Myth</span></h2>
+
+<p align="justify" style="color:#D8FFE8;">
+  Boht se log yeh samajh kar Red Teaming mein aate hain ke woh bina kisi qanoon ko manne wale "Azad hackers" ya "hacktivists" ban jayenge—<strong>yeh soch 100% galat aur bakwas hai!</strong> Red Teaming aur Ethical Hacking kisi lawless mind-set ka naam nahi hai. Real-world Cybersecurity sakht legal frameworks, written authorization, aur strict Rules of Engagement (RoE) par chalti hai. Unlawful hacking se sirf legal action aur career tabah hota hai.
+</p>
+
+<ul>
+  <li><strong style="color:#FF5555;">🏴 Hacktivist:</strong> An individual or group that breaches systems for political, social, or ideological motives without legal permission. Regardless of intent, unauthorized access is illegal and punishable by law.</li>
+  <li><strong style="color:#FFB703;">🎯 Rogue / Unlawful Hacker (Black Hat):</strong> Someone who operates outside legal scope, disrespects authorization, and exploits vulnerabilities unlawfully. They are Malcious  Threat Actors who do not follow or respect the law .This path leads to cybercrime charges, not a career.</li>
+  <li><strong style="color:#39FF14;">🛡️ Professional Red Teamer:</strong> A security professional who operates strictly within legally binding authorization to simulate realistic attacks and fortify defenses. <em>Without explicit written consent, hacking is a crime—period.</em></li>
+</ul>
+
+<p align="center" style="color:#7DF9FF;">
+  ⛔ <strong>Advice to Beginners:</strong> Avoid the "lawless hacker" mindset. Real security professionals respect legal scope, boundaries, and professional ethics.
+</p>
+
+<hr>
+
+<h2 align="center"><span style="color:#00FF9F;">🖥️ Operating Systems & Environments</span></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557CDA?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Parrot_OS-00D2FF?style=for-the-badge&logo=parrotsecurity&logoColor=black" alt="Parrot OS" />
+  <img src="https://img.shields.io/badge/Tails_OS-563D7C?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tails OS" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</p>
 
 <hr>
 
@@ -112,34 +142,3 @@ while [ $battery -gt 0 ]; do
     echo "4. Drink Green Tea / Coffee ☕"
     echo "5. Repeat 🔁"
 done
-```
-
-<hr>
-
-<h2 align="center"><span style="color:#00FF9F;">📊 GitHub Performance Metrics</span></h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaikNazar-cyber&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaikNazar-cyber&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<hr>
-
-<p align="center">
-  <span style="color:#00E5FF;"><em>"Every system has a weakness. Security starts with understanding it."</em></span>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaikNazar-cyber&color=00FF9F&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
-</p>
-
-<hr>
-
-<div align="center">
-  <a href="https://github.com/NaikNazar-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-NaikNazar--cyber-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
-</div>
