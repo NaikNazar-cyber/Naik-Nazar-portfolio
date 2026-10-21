@@ -71,12 +71,11 @@
 <hr>
 
 <h2 align="center"><span style="color:#00FF9F;">🎯 Proof of Work & Profiles</span></h2>
-<!-- Replace the '#' with your actual profile links -->
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/TryHackMe-Profile-39FF14?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HackTheBox-Profile-00FF9F?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HackerOne-Bug%20Bounty-00E5FF?style=for-the-badge&logo=hackerone&logoColor=black" alt="HackerOne" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Projects-B084FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
+  <a href="https://github.com/users/NaikNazar-cyber/projects/2"><img src="https://img.shields.io/badge/GitHub-Projects-B084FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Project" /></a>
 </p>
 
 <hr>
